@@ -151,7 +151,8 @@
     "vic"
   ],
   "polaris": [
-    "udc"
+    "udc",
+    "vic"
   ],
   "pyxis": [
     "udc"
