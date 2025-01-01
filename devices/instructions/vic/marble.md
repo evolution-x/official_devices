@@ -1,13 +1,11 @@
 ## THESE INSTRUCTIONS ASSUME YOUR DEVICE'S BOOTLOADER IS ALREADY UNLOCKED
 
-1. Download boot, dtbo, vendor_kernel_boot, vendor_boot, rom for marble from [here](https://sourceforge.net/projects/evolution-x/files/marble/15/).
+1. Download boot, dtbo, vendor_boot, rom for marble from [here](https://sourceforge.net/projects/evolution-x/files/marble/15/).
 2. Reboot to bootloader.
 3.
 ```fastboot flash boot boot.img```
 
 ```fastboot flash dtbo dtbo.img```
-
-```fastboot flash vendor_kernel_boot vendor_kernel_boot.img```
 
 ```fastboot flash vendor_boot vendor_boot.img```
 
