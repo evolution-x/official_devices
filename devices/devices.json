@@ -41,10 +41,12 @@
     "vic"
   ],
   "blueline": [
-    "udc"
+    "udc",
+    "vic"
   ],
   "bonito": [
-    "udc"
+    "udc",
+    "vic"
   ],
   "caiman": [
     "vic"
@@ -62,7 +64,8 @@
     "vic"
   ],
   "crosshatch": [
-    "udc"
+    "udc",
+    "vic"
   ],
   "cupid": [
     "udc",
@@ -183,7 +186,8 @@
     "udc"
   ],
   "sargo": [
-    "udc"
+    "udc",
+    "vic"
   ],
   "shiba": [
     "udc",
