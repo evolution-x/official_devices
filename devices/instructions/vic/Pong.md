@@ -1,10 +1,8 @@
 ## THESE INSTRUCTIONS ASSUME YOUR DEVICE'S BOOTLOADER IS ALREADY UNLOCKED
 
-1. Download boot, recovery, rom for Pong from [here](https://sourceforge.net/projects/evolution-x/files/Pong/15/).
+1. Download recovery, rom for Pong from [here](https://sourceforge.net/projects/evolution-x/files/Pong/15/).
 2. Reboot to bootloader.
 3.
-```fastboot flash boot boot.img```
-
 ```fastboot flash recovery recovery.img```
 
 4. Reboot to recovery.
