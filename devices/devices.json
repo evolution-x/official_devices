@@ -21,19 +21,23 @@
   ],
   "beyond0lte": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "beyond1lte": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "beyond2lte": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "beyondx": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "bluejay": [
     "udc",
@@ -73,22 +77,26 @@
   ],
   "d1": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "d2s": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "d2x": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "davinci": [
     "udc"
   ],
   "f62": [
     "udc",
-    "vic"
+    "vic",
+    "vic-vanilla"
   ],
   "felix": [
     "udc"
