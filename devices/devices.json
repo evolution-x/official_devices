@@ -99,7 +99,8 @@
     "vic-vanilla"
   ],
   "felix": [
-    "udc"
+    "udc",
+    "vic"
   ],
   "garnet": [
     "udc",
