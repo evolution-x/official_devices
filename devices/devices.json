@@ -59,6 +59,9 @@
     "udc",
     "vic"
   ],
+  "cheeseburger": [
+    "vic"
+  ],
   "cheetah": [
     "udc",
     "udc-vanilla",
@@ -93,6 +96,9 @@
   "davinci": [
     "udc"
   ],
+  "dumpling": [
+    "vic"
+  ],
   "f62": [
     "udc",
     "vic",
@@ -111,6 +117,18 @@
     "udc-vanilla",
     "vic",
     "vic-vanilla"
+  ],
+  "guacamole": [
+    "vic"
+  ],
+  "guacamoleb": [
+    "vic"
+  ],
+  "hotdog": [
+    "vic"
+  ],
+  "hotdogb": [
+    "vic"
   ],
   "husky": [
     "udc",

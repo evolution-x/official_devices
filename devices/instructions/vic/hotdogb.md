@@ -1,9 +1,11 @@
 ## THESE INSTRUCTIONS ASSUME YOUR DEVICE'S BOOTLOADER IS ALREADY UNLOCKED
 
-1. Download boot, dtbo, rom for raphael from [here](https://sourceforge.net/projects/evolution-x/files/raphael/15/).
+1. Download boot, vbmeta, dtbo, rom for hotdogb from [here](https://sourceforge.net/projects/evolution-x/files/hotdogb/15/).
 2. Reboot to bootloader.
 3.
 ```fastboot flash boot boot.img```
+
+```fastboot flash vbmeta vbmeta.img```
 
 ```fastboot flash dtbo dtbo.img```
 
