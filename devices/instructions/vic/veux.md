@@ -1,11 +1,13 @@
 ## THESE INSTRUCTIONS ASSUME YOUR DEVICE'S BOOTLOADER IS ALREADY UNLOCKED
 
-1. Download boot, vendor_boot, rom for veux from [here](https://sourceforge.net/projects/evolution-x/files/veux/15/).
+1. Download boot, vendor_boot, dtbo, rom for veux from [here](https://sourceforge.net/projects/evolution-x/files/veux/15/).
 2. Reboot to bootloader.
 3.
 ```fastboot flash boot boot.img```
 
 ```fastboot flash vendor_boot vendor_boot.img```
+
+```fastboot flash dtbo dtbo.img```
 
 4. Reboot to recovery.
 5. While in recovery, navigate to **Factory Reset** → **Format Data/Factory Reset** and confirm to format the device.

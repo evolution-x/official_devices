@@ -1,13 +1,13 @@
 ## THESE INSTRUCTIONS ASSUME YOUR DEVICE'S BOOTLOADER IS ALREADY UNLOCKED
 
-1. Download boot, vbmeta, dtbo, rom for hotdog from [here](https://sourceforge.net/projects/evolution-x/files/hotdog/15/).
+1. Download vbmeta, dtbo, recovery, rom for hotdog from [here](https://sourceforge.net/projects/evolution-x/files/hotdog/15/).
 2. Reboot to bootloader.
 3.
-```fastboot flash boot boot.img```
-
 ```fastboot flash vbmeta vbmeta.img```
 
 ```fastboot flash dtbo dtbo.img```
+
+```fastboot flash recovery recovery.img```
 
 4. Reboot to recovery.
 5. While in recovery, navigate to **Factory Reset** → **Format Data/Factory Reset** and confirm to format the device.
